@@ -135,7 +135,7 @@ Esse comando deve ser executado dentro da pasta extraída.
  
 ### Agradecimentos: [Etec adolpho berezin](https://www.cps.sp.gov.br/etecs/etec-adolpho-berezin/)
 
-### Desenvolvedores do Software: [Pedro Antonio](https://github.com/pedrosouza2206) e [Junior Silva]
+### Desenvolvedores do Software: [Pedro Antonio](https://github.com/pedrosouza2206) e [Junior Silva](https://github.com/juniorsilva-ti)
 
 ---
 
